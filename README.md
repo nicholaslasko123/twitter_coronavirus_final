@@ -30,6 +30,7 @@ The analysis produced the following key visualizations:
 ▯▯▯▯▯▯▯ = 코로나바이러스:
 ![final country_#코로나바이러스](https://github.com/user-attachments/assets/d51c838e-6ffe-4975-9c88-0de74780e20f)
 - **Line Chart for Hashtag Usage Trends**
+▯▯▯▯▯▯▯ = 코로나바이러스:
 ![hashtag_trend](https://github.com/user-attachments/assets/51399d74-97a8-49e7-8646-9eb565a0a458)
 These visualizations provide insights into the spread of COVID-19 discussions on Twitter.
 
